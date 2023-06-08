@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir welcome/; mkdir $_to=welcome/to/; mkdir $_to_school=welcome/to/school
+mkdir -p welcome/to/school
